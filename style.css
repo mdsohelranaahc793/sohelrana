@@ -76,6 +76,7 @@ nav ul li a{
 .header-container{
   background: url('banner2.png');
   padding: 70px;
+  background-repeat: no-repeat;
   background-position: center;
   text-align: center;
   color: #fff;
